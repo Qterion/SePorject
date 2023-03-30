@@ -1,0 +1,30 @@
+.item{
+    display:flex;
+}
+.card{
+    
+    
+}
+.addImageBorder{
+  width: 180px; 
+  height:260px;
+  display: flex;
+align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.addImage{
+    width:60px;
+}
+.user-block{
+    background-color: rgb(73, 73, 73);
+}
+.Att-image{
+    width:20px;
+}
+.break{
+    padding-left:30px;
+}
+.Card-Title{
+    display: flex;
+}

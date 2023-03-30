@@ -1,0 +1,7 @@
+//overwrite variables
+
+$primary:rgb(108, 52, 58);
+$success:rgb(113, 187, 125);
+
+//import bootstrap styles keep at the very bottom line
+@import '~bootstrap/scss/bootstrap.scss';
